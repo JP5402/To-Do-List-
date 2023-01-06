@@ -1,4 +1,4 @@
-# Todo-List-Vanilla-JS
+# To-do List
 
 ### UI (Dark mode)
 
